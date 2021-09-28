@@ -1,6 +1,6 @@
 
 
-https://github.com/FeliceValentine/calculator/
+https://felicevalentine.github.io/calculator/
 
 # Getting Started with Create React App
 
